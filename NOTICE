@@ -1,0 +1,10 @@
+search-and-map-pins
+Copyright (C) Bob Dodd
+
+This repository — map.html and its inline scripts and styles,
+styles.css, and the image assets — is licensed under the GNU General
+Public License v3.0 or later. See LICENSE for the full text.
+
+The base map and all assets are original work. This demo contains no
+third-party map data; in particular, it is not derived from
+OpenStreetMap.
